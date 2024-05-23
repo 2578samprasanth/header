@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: o;
+}
+html{
+    font-size: 20px;
+
+}
+h1{
+    padding: 2px;
+}
+p{
+    padding: 3px;
+}
+.container1, .container2, .img{
+    width: 90vw;
+    border: 2px solid black;
+    margin: 30px;
+
+}
+.container1{
+    background-color: aqua;
+    color: blueviolet;
+    font-size: 2rem;
+    text-align: center;
+}
+.container2{
+    background-color: yellow;
+    color: black;
+    font-size: 2rem;
+    text-align: center;
+}
